@@ -153,4 +153,4 @@ void board()
 
     printf("     |     |     \n\n");
 }
-/*End of the God Damn Game */
+/*End of the Game */
